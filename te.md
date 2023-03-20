@@ -1,0 +1,8 @@
+- localStorage
+- input select city
+- html
+- another 
+- search #eng
+- lang
+- react native
+- расширить ассортимент городов
